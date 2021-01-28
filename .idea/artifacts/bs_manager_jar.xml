@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bs-manager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bs_manager_jar</output-path>
+    <root id="archive" name="bs-manager.jar" />
+  </artifact>
+</component>

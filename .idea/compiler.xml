@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bs-manager-web" />
+        <module name="bs-manager-mapper" />
+        <module name="bs-manager-service" />
+        <module name="bs-manager-pojo" />
+        <module name="bs-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bs-common" target="1.8" />
+      <module name="bs-manager" target="1.8" />
+      <module name="bs-manager-mapper" target="1.8" />
+      <module name="bs-manager-pojo" target="1.8" />
+      <module name="bs-manager-service" target="1.8" />
+      <module name="bs-manager-web" target="1.8" />
+      <module name="bs-parent" target="1.8" />
+      <module name="untitled" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
